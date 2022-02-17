@@ -17,3 +17,6 @@
 * [HR](https://assaabloy.hrintouch.com/Platform/Default.aspx?ApplicationID=HRInTouch&PageID=Login&TenantID=assaabloy)
 * [Mail](https://mail.assaabloy.net/owa/)
 
+# Training
+
+* [Success Factors](https://performancemanager.successfactors.eu/sf/home?bplte_company=assaabloya)
